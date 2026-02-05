@@ -584,3 +584,6 @@ The dashboard is automated and will eventually update. Please wait until the nex
 
 **12.2 My submission is missing in the dashboard. What should I do?**
 Please ensure that you've submitted the forms required which you can find in the forms and link section in the cohort specific page. It is essential to submit as that is the place of verification for us and the scripts fetch for the dashboard.
+
+**12.3 Dashboard is not loading at the moment. What should I do?**
+The Dashboard is under update and this might cause some glitch in dashboard view. It will be resolved soon once the updates are done.
